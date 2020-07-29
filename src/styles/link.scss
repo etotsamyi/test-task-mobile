@@ -1,0 +1,16 @@
+.main__link {
+  margin-top: 24px;
+  text-decoration: none;
+  font-family: Roboto;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 18px;
+  letter-spacing: -0.08px;
+  color: #2b234c;
+  transition: color 1s;
+}
+
+.main__link--dark {
+  color: #d259f5;
+}

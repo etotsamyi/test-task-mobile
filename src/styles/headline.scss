@@ -1,0 +1,13 @@
+.main__headline {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 22px;
+  font-weight: bold;
+  line-height: 28px;
+  text-align: center;
+  color: #2b234c;
+  transition: color 1s;
+}
+
+.main__headline--dark {
+  color: #ffffff;
+}
