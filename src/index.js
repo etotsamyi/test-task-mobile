@@ -15,7 +15,6 @@ const setImageSize = () => {
     button.style.width = `${image.offsetWidth}px`;
     button.style.height = `${image.offsetWidth / 6}px`;
   }
-  console.log(image.offsetWidth);
   button.style.width = `${image.offsetWidth}px`;
   button.style.height = `${image.offsetWidth / 6}px`;
 };
