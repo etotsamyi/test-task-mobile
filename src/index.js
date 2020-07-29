@@ -12,8 +12,6 @@ const setImageSize = () => {
   if (image.offsetWidth >= window.innerWidth - 42) {
     image.style.width = "100vw";
     image.style.height = "auto";
-    button.style.width = `${image.offsetWidth}px`;
-    button.style.height = `${image.offsetWidth / 6}px`;
   }
   button.style.width = `${image.offsetWidth}px`;
   button.style.height = `${image.offsetWidth / 6}px`;
